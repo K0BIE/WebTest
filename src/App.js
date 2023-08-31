@@ -5,7 +5,9 @@ function App() {
   return (
     <div>
       <header>Hello world</header>
-      <nav></nav>
+      <div className='siteBody'>
+        <p>text</p>
+      </div>
       <footer>Goodbye World</footer>
     </div>
 
